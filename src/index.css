@@ -16,3 +16,8 @@ code {
   margin-left: unset;
   margin-top: 30px;
 }
+
+.formTitle{
+  text-align: center;
+  color: blue;
+}
